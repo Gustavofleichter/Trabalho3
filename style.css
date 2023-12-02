@@ -1,0 +1,38 @@
+/* Comentários podem ser adicionados usando esta sintaxe */
+
+/* Reset de margens e preenchimentos para garantir consistência entre navegadores */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para o corpo da página */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333; /* Cor do texto */
+    background-color: #fff; /* Cor de fundo da página */
+}
+
+/* Estilos para cabeçalhos */
+h1, h2, h3 {
+    color: #007bff; /* Cor do texto para cabeçalhos */
+}
+
+/* Estilos para parágrafos */
+p {
+    margin-bottom: 20px;
+}
+
+/* Estilos para links */
+a {
+    color: #007bff; /* Cor padrão para links */
+    text-decoration: none; /* Remover sublinhado padrão */
+}
+
+a:hover {
+    text-decoration: underline; /* Adicionar sublinhado ao passar o mouse sobre o link */
+}
+
+/* Adicione mais estilos conforme necessário */
